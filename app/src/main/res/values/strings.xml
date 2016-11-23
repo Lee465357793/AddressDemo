@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressDemo</string>
+    <string name="address">所在地（省市区）</string>
+</resources>
